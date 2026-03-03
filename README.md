@@ -85,16 +85,4 @@ Software design course project at York University. Applied OOP design patterns t
 
 ---
 
-## Stats
-
-<div align="center">
-
-![Abdullah's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Abdullahu5mani&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Abdullahu5mani&layout=compact&theme=tokyonight&hide_border=true)
-
-</div>
-
----
-
 Open to new grad roles in Canada. If you want to connect or collaborate — find me on [LinkedIn](https://www.linkedin.com/in/abdullah-usmani-039407206).
